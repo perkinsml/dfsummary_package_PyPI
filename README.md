@@ -6,7 +6,7 @@
 # Getting Started
 
 ## Installation
-The dfsummary package is available on PyPi:
+The dfsummary package is available on PyPI:
 
 ```pip install dfsummary```
 
